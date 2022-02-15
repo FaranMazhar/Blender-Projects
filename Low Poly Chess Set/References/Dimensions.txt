@@ -1,0 +1,10 @@
+Box Size: 6 cm
+
+->King:
+	Height: 9.5 cm
+	Base Diameter: 4.5 cm
+->Pawn:
+	Base Diamater: 3 cm
+-> Other Pieces:
+	Base Diameter: 4 cm
+	 
