@@ -4,6 +4,7 @@ Box Size: 6 cm
 	Height: 9.5 cm
 	Base Diameter: 4.5 cm
 ->Pawn:
+	Height: 5 cm
 	Base Diamater: 3 cm
 -> Other Pieces:
 	Base Diameter: 4 cm
